@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻Lukas Willian:
 🔥  - Specialized TypeScript Front-End Developer;<br>💻 - Back-end skills;<br>🖥️ - Developer in Visualy Publicidade;<br>🎮 - Nerd by nature;<br>👨‍💻 - Problem solver
 
 
