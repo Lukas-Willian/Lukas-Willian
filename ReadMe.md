@@ -1,5 +1,5 @@
 # 👨‍💻Lukas Willian:
-🔥  - Specialized TypeScript/JavaScript Front-End Developer;<br>💻 - Back-end skills;<br>🖥️ - UI/UX - Developer in Visualy Publicidade;<br>🎮 - Nerd by nature;<br>👨‍💻 - Problem solver
+🔥  - Specialized TypeScript/JavaScript Front-End Developer;<br>💻 - Back-end skills;<br>🖥️ - UI/UX - Developer;<br>🎮 - Nerd by nature;<br>👨‍💻 - Problem solver
 
 
 ## 🌐 Socials:
